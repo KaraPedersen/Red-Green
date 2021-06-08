@@ -1,4 +1,4 @@
-import getName from './hex-to-rgb.js';
+import getName from './get-name.js';
 
 describe('getName', () => {
   it('returns the name property of an object', () => {
